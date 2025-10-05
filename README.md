@@ -33,7 +33,7 @@ I have experience making .NET desktop projects and love seeing how different tec
 
 ---
 
-> _"Every day is an opportunity to learn, grow, and create something wonderful."_
+> _"Every day is an opportunity to learn, grow, and create."_
 
 ---
 
