@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a passionate software engineering student who loves building systems, working with APIs, and managing databases. My core strengths are in backend development (Java, PHP, Laravel, SQL, .NET), but I also enjoy exploring the frontend world with React.
+I am a passionate Business Informatics student who loves building systems, working with APIs, and managing databases. My core strengths are in backend development (Java, PHP, Laravel, SQL, .NET), but I also enjoy exploring the frontend world with React.
 
 I have experience making .NET desktop projects and love seeing how different technologies work together to build something amazing. Every day, I learn something new, especially using Git for collaboration and version control.
 
