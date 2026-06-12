@@ -1,6 +1,6 @@
 # Hi there, I'm Steph! 👋
 
-🎓 **Software Engineering Student**  
+🎓 **Business Informatics Student**  
 💻 **Backend Enthusiast** | Java | JavaScript | PHP | Laravel | SQL | .NET  
 🌐 **Frontend Explorer** – Growing with React  
 🔗 **API & Web Project Developer**  
